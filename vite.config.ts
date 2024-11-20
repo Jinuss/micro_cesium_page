@@ -1,5 +1,4 @@
 import { defineConfig } from "vite";
-import react from "@vitejs/plugin-react";
 import qiankun from "vite-plugin-qiankun";
 import reactRefresh from "@vitejs/plugin-react-refresh";
 

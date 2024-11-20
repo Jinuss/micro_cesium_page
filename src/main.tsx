@@ -27,6 +27,7 @@ renderWithQiankun({
   },
   bootstrap() {},
   unmount(props: any) {
+    console.log(props);
     root?.unmount();
   },
   update(props: any) {
